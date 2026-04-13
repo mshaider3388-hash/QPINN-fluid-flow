@@ -39,4 +39,4 @@ Traditional numerical methods for solving fluid flow problems can be computation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-mshaider338-hash/qpinn-fluid-flow.git
+git clone https://github.com/your-mshaider3388-hash/qpinn-fluid-flow.git
